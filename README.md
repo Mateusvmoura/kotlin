@@ -17,3 +17,10 @@
 # PROCESSO DE EXECUÇÃO DO KOTLIN 
 
 KOTLIN(.KT) -> COMPILADOR -> BYTECODE(.CLASS) -> (APPLE, ANDROID E WINDOWS)
+
+# ANDROID 
+
+- Sistema operacional para dispositivos móveis, mantido pela google desde de 2005. 
+- 2.5 bilhões de usuários ativos. 
+- 24 mil modelos de dispositivos
+- Ultima  versão : android 11 (Setembro de 2020)
